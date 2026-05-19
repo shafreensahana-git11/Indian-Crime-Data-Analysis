@@ -1,0 +1,811 @@
+State,District,Year,Crime_Type,Number_of_Incidents,Victims_Male,Victims_Female,Rural_Area,Convictions
+Maharashtra,Mumbai,2015,Theft,383,24,359,Yes,141
+Maharashtra,Mumbai,2015,Assault,393,58,335,No,274
+Maharashtra,Mumbai,2015,Murder,407,301,106,Yes,348
+Maharashtra,Mumbai,2015,Rape,232,41,191,No,87
+Maharashtra,Mumbai,2015,Cyber Crime,23,12,11,Yes,12
+Maharashtra,Mumbai,2015,Kidnapping,220,116,104,Yes,140
+Maharashtra,Mumbai,2016,Theft,173,4,169,Yes,115
+Maharashtra,Mumbai,2016,Assault,46,2,44,No,31
+Maharashtra,Mumbai,2016,Murder,111,20,91,No,89
+Maharashtra,Mumbai,2016,Rape,103,59,44,No,12
+Maharashtra,Mumbai,2016,Cyber Crime,217,135,82,No,129
+Maharashtra,Mumbai,2016,Kidnapping,86,61,25,No,79
+Maharashtra,Mumbai,2017,Theft,420,412,8,Yes,181
+Maharashtra,Mumbai,2017,Assault,469,178,291,No,84
+Maharashtra,Mumbai,2017,Murder,319,33,286,Yes,288
+Maharashtra,Mumbai,2017,Rape,50,1,49,No,49
+Maharashtra,Mumbai,2017,Cyber Crime,9,8,1,No,4
+Maharashtra,Mumbai,2017,Kidnapping,173,160,13,No,154
+Maharashtra,Mumbai,2018,Theft,150,119,31,No,41
+Maharashtra,Mumbai,2018,Assault,178,24,154,No,137
+Maharashtra,Mumbai,2018,Murder,120,3,117,Yes,100
+Maharashtra,Mumbai,2018,Rape,500,117,383,No,173
+Maharashtra,Mumbai,2018,Cyber Crime,67,37,30,Yes,39
+Maharashtra,Mumbai,2018,Kidnapping,181,68,113,No,58
+Maharashtra,Mumbai,2019,Theft,325,7,318,No,270
+Maharashtra,Mumbai,2019,Assault,167,112,55,Yes,95
+Maharashtra,Mumbai,2019,Murder,368,310,58,Yes,350
+Maharashtra,Mumbai,2019,Rape,2,1,1,No,1
+Maharashtra,Mumbai,2019,Cyber Crime,382,235,147,Yes,121
+Maharashtra,Mumbai,2019,Kidnapping,60,14,46,No,10
+Maharashtra,Mumbai,2020,Theft,383,199,184,No,273
+Maharashtra,Mumbai,2020,Assault,34,9,25,No,31
+Maharashtra,Mumbai,2020,Murder,375,240,135,No,306
+Maharashtra,Mumbai,2020,Rape,390,162,228,Yes,73
+Maharashtra,Mumbai,2020,Cyber Crime,111,59,52,Yes,103
+Maharashtra,Mumbai,2020,Kidnapping,447,139,308,No,119
+Maharashtra,Mumbai,2021,Theft,365,304,61,Yes,274
+Maharashtra,Mumbai,2021,Assault,294,253,41,No,153
+Maharashtra,Mumbai,2021,Murder,276,247,29,No,108
+Maharashtra,Mumbai,2021,Rape,362,284,78,No,93
+Maharashtra,Mumbai,2021,Cyber Crime,466,283,183,No,28
+Maharashtra,Mumbai,2021,Kidnapping,189,189,0,Yes,102
+Maharashtra,Mumbai,2022,Theft,204,53,151,No,60
+Maharashtra,Mumbai,2022,Assault,282,215,67,No,183
+Maharashtra,Mumbai,2022,Murder,335,138,197,Yes,289
+Maharashtra,Mumbai,2022,Rape,72,21,51,No,13
+Maharashtra,Mumbai,2022,Cyber Crime,51,36,15,No,31
+Maharashtra,Mumbai,2022,Kidnapping,262,82,180,No,73
+Maharashtra,Mumbai,2023,Theft,137,128,9,Yes,121
+Maharashtra,Mumbai,2023,Assault,164,51,113,Yes,34
+Maharashtra,Mumbai,2023,Murder,465,208,257,Yes,256
+Maharashtra,Mumbai,2023,Rape,357,51,306,No,285
+Maharashtra,Mumbai,2023,Cyber Crime,442,37,405,No,245
+Maharashtra,Mumbai,2023,Kidnapping,111,47,64,No,100
+Maharashtra,Pune,2015,Theft,161,27,134,No,2
+Maharashtra,Pune,2015,Assault,432,214,218,Yes,299
+Maharashtra,Pune,2015,Murder,247,46,201,Yes,179
+Maharashtra,Pune,2015,Rape,492,283,209,Yes,128
+Maharashtra,Pune,2015,Cyber Crime,181,151,30,Yes,128
+Maharashtra,Pune,2015,Kidnapping,197,155,42,No,121
+Maharashtra,Pune,2016,Theft,128,127,1,No,50
+Maharashtra,Pune,2016,Assault,347,128,219,No,110
+Maharashtra,Pune,2016,Murder,379,311,68,No,224
+Maharashtra,Pune,2016,Rape,18,5,13,No,16
+Maharashtra,Pune,2016,Cyber Crime,80,17,63,No,45
+Maharashtra,Pune,2016,Kidnapping,354,288,66,No,13
+Maharashtra,Pune,2017,Theft,139,133,6,Yes,11
+Maharashtra,Pune,2017,Assault,176,88,88,Yes,70
+Maharashtra,Pune,2017,Murder,332,169,163,No,127
+Maharashtra,Pune,2017,Rape,439,204,235,Yes,307
+Maharashtra,Pune,2017,Cyber Crime,150,111,39,No,117
+Maharashtra,Pune,2017,Kidnapping,473,72,401,Yes,98
+Maharashtra,Pune,2018,Theft,77,71,6,No,33
+Maharashtra,Pune,2018,Assault,245,136,109,Yes,176
+Maharashtra,Pune,2018,Murder,160,20,140,No,156
+Maharashtra,Pune,2018,Rape,494,283,211,Yes,107
+Maharashtra,Pune,2018,Cyber Crime,216,80,136,No,163
+Maharashtra,Pune,2018,Kidnapping,454,10,444,No,277
+Maharashtra,Pune,2019,Theft,148,0,148,No,28
+Maharashtra,Pune,2019,Assault,133,78,55,Yes,124
+Maharashtra,Pune,2019,Murder,203,202,1,Yes,5
+Maharashtra,Pune,2019,Rape,94,87,7,No,13
+Maharashtra,Pune,2019,Cyber Crime,493,468,25,Yes,84
+Maharashtra,Pune,2019,Kidnapping,391,189,202,No,357
+Maharashtra,Pune,2020,Theft,131,32,99,No,112
+Maharashtra,Pune,2020,Assault,205,74,131,No,128
+Maharashtra,Pune,2020,Murder,133,121,12,No,102
+Maharashtra,Pune,2020,Rape,395,394,1,No,59
+Maharashtra,Pune,2020,Cyber Crime,281,79,202,No,55
+Maharashtra,Pune,2020,Kidnapping,189,81,108,No,69
+Maharashtra,Pune,2021,Theft,277,18,259,Yes,195
+Maharashtra,Pune,2021,Assault,270,223,47,No,98
+Maharashtra,Pune,2021,Murder,56,27,29,Yes,45
+Maharashtra,Pune,2021,Rape,317,29,288,No,30
+Maharashtra,Pune,2021,Cyber Crime,94,44,50,No,32
+Maharashtra,Pune,2021,Kidnapping,240,70,170,No,193
+Maharashtra,Pune,2022,Theft,227,87,140,No,212
+Maharashtra,Pune,2022,Assault,262,156,106,No,44
+Maharashtra,Pune,2022,Murder,405,349,56,No,83
+Maharashtra,Pune,2022,Rape,23,13,10,Yes,1
+Maharashtra,Pune,2022,Cyber Crime,401,29,372,Yes,173
+Maharashtra,Pune,2022,Kidnapping,188,40,148,Yes,51
+Maharashtra,Pune,2023,Theft,410,31,379,No,328
+Maharashtra,Pune,2023,Assault,179,67,112,No,164
+Maharashtra,Pune,2023,Murder,192,120,72,No,30
+Maharashtra,Pune,2023,Rape,164,32,132,Yes,75
+Maharashtra,Pune,2023,Cyber Crime,40,38,2,Yes,39
+Maharashtra,Pune,2023,Kidnapping,111,15,96,Yes,77
+Maharashtra,Nagpur,2015,Theft,184,161,23,Yes,141
+Maharashtra,Nagpur,2015,Assault,151,123,28,Yes,102
+Maharashtra,Nagpur,2015,Murder,173,0,173,No,166
+Maharashtra,Nagpur,2015,Rape,414,397,17,No,332
+Maharashtra,Nagpur,2015,Cyber Crime,390,245,145,No,29
+Maharashtra,Nagpur,2015,Kidnapping,190,171,19,Yes,148
+Maharashtra,Nagpur,2016,Theft,4,2,2,Yes,1
+Maharashtra,Nagpur,2016,Assault,334,288,46,No,261
+Maharashtra,Nagpur,2016,Murder,436,240,196,Yes,414
+Maharashtra,Nagpur,2016,Rape,199,119,80,No,117
+Maharashtra,Nagpur,2016,Cyber Crime,41,28,13,No,7
+Maharashtra,Nagpur,2016,Kidnapping,346,184,162,Yes,167
+Maharashtra,Nagpur,2017,Theft,391,313,78,Yes,309
+Maharashtra,Nagpur,2017,Assault,478,217,261,No,295
+Maharashtra,Nagpur,2017,Murder,322,194,128,No,316
+Maharashtra,Nagpur,2017,Rape,116,81,35,Yes,67
+Maharashtra,Nagpur,2017,Cyber Crime,154,97,57,Yes,24
+Maharashtra,Nagpur,2017,Kidnapping,367,272,95,No,64
+Maharashtra,Nagpur,2018,Theft,184,161,23,Yes,132
+Maharashtra,Nagpur,2018,Assault,302,25,277,No,186
+Maharashtra,Nagpur,2018,Murder,54,37,17,Yes,33
+Maharashtra,Nagpur,2018,Rape,129,104,25,No,103
+Maharashtra,Nagpur,2018,Cyber Crime,461,360,101,No,330
+Maharashtra,Nagpur,2018,Kidnapping,164,64,100,Yes,0
+Maharashtra,Nagpur,2019,Theft,257,35,222,No,21
+Maharashtra,Nagpur,2019,Assault,308,248,60,Yes,240
+Maharashtra,Nagpur,2019,Murder,200,156,44,No,115
+Maharashtra,Nagpur,2019,Rape,70,5,65,Yes,56
+Maharashtra,Nagpur,2019,Cyber Crime,141,129,12,No,29
+Maharashtra,Nagpur,2019,Kidnapping,89,85,4,No,89
+Maharashtra,Nagpur,2020,Theft,488,351,137,No,101
+Maharashtra,Nagpur,2020,Assault,398,208,190,No,373
+Maharashtra,Nagpur,2020,Murder,401,396,5,Yes,258
+Maharashtra,Nagpur,2020,Rape,233,68,165,No,56
+Maharashtra,Nagpur,2020,Cyber Crime,259,201,58,Yes,250
+Maharashtra,Nagpur,2020,Kidnapping,426,214,212,Yes,395
+Maharashtra,Nagpur,2021,Theft,305,124,181,Yes,55
+Maharashtra,Nagpur,2021,Assault,13,5,8,No,7
+Maharashtra,Nagpur,2021,Murder,123,17,106,No,45
+Maharashtra,Nagpur,2021,Rape,458,66,392,Yes,155
+Maharashtra,Nagpur,2021,Cyber Crime,478,44,434,Yes,234
+Maharashtra,Nagpur,2021,Kidnapping,377,125,252,Yes,345
+Maharashtra,Nagpur,2022,Theft,184,5,179,No,148
+Maharashtra,Nagpur,2022,Assault,56,38,18,No,19
+Maharashtra,Nagpur,2022,Murder,123,91,32,No,41
+Maharashtra,Nagpur,2022,Rape,137,58,79,No,78
+Maharashtra,Nagpur,2022,Cyber Crime,128,60,68,Yes,11
+Maharashtra,Nagpur,2022,Kidnapping,110,43,67,Yes,78
+Maharashtra,Nagpur,2023,Theft,294,192,102,Yes,90
+Maharashtra,Nagpur,2023,Assault,75,23,52,No,61
+Maharashtra,Nagpur,2023,Murder,211,201,10,No,158
+Maharashtra,Nagpur,2023,Rape,104,23,81,No,48
+Maharashtra,Nagpur,2023,Cyber Crime,243,106,137,No,242
+Maharashtra,Nagpur,2023,Kidnapping,311,138,173,Yes,174
+Tamil Nadu,Chennai,2015,Theft,463,381,82,Yes,169
+Tamil Nadu,Chennai,2015,Assault,91,74,17,No,41
+Tamil Nadu,Chennai,2015,Murder,210,129,81,Yes,80
+Tamil Nadu,Chennai,2015,Rape,499,249,250,No,139
+Tamil Nadu,Chennai,2015,Cyber Crime,232,225,7,Yes,115
+Tamil Nadu,Chennai,2015,Kidnapping,272,145,127,Yes,5
+Tamil Nadu,Chennai,2016,Theft,9,8,1,Yes,0
+Tamil Nadu,Chennai,2016,Assault,248,119,129,No,188
+Tamil Nadu,Chennai,2016,Murder,259,120,139,No,132
+Tamil Nadu,Chennai,2016,Rape,148,71,77,No,95
+Tamil Nadu,Chennai,2016,Cyber Crime,391,310,81,No,375
+Tamil Nadu,Chennai,2016,Kidnapping,359,62,297,Yes,122
+Tamil Nadu,Chennai,2017,Theft,471,103,368,Yes,247
+Tamil Nadu,Chennai,2017,Assault,324,256,68,Yes,219
+Tamil Nadu,Chennai,2017,Murder,210,86,124,Yes,89
+Tamil Nadu,Chennai,2017,Rape,169,51,118,Yes,48
+Tamil Nadu,Chennai,2017,Cyber Crime,308,127,181,No,7
+Tamil Nadu,Chennai,2017,Kidnapping,283,75,208,Yes,51
+Tamil Nadu,Chennai,2018,Theft,115,71,44,No,68
+Tamil Nadu,Chennai,2018,Assault,5,5,0,No,4
+Tamil Nadu,Chennai,2018,Murder,464,301,163,Yes,72
+Tamil Nadu,Chennai,2018,Rape,289,93,196,Yes,259
+Tamil Nadu,Chennai,2018,Cyber Crime,109,23,86,No,36
+Tamil Nadu,Chennai,2018,Kidnapping,119,53,66,Yes,59
+Tamil Nadu,Chennai,2019,Theft,265,161,104,Yes,79
+Tamil Nadu,Chennai,2019,Assault,193,64,129,Yes,144
+Tamil Nadu,Chennai,2019,Murder,107,46,61,No,15
+Tamil Nadu,Chennai,2019,Rape,331,148,183,Yes,118
+Tamil Nadu,Chennai,2019,Cyber Crime,49,0,49,No,9
+Tamil Nadu,Chennai,2019,Kidnapping,63,23,40,No,4
+Tamil Nadu,Chennai,2020,Theft,435,237,198,No,285
+Tamil Nadu,Chennai,2020,Assault,8,2,6,Yes,5
+Tamil Nadu,Chennai,2020,Murder,37,33,4,No,6
+Tamil Nadu,Chennai,2020,Rape,123,118,5,No,61
+Tamil Nadu,Chennai,2020,Cyber Crime,180,86,94,No,117
+Tamil Nadu,Chennai,2020,Kidnapping,107,45,62,No,64
+Tamil Nadu,Chennai,2021,Theft,360,200,160,No,308
+Tamil Nadu,Chennai,2021,Assault,282,35,247,No,91
+Tamil Nadu,Chennai,2021,Murder,459,218,241,Yes,4
+Tamil Nadu,Chennai,2021,Rape,478,401,77,No,61
+Tamil Nadu,Chennai,2021,Cyber Crime,91,55,36,No,18
+Tamil Nadu,Chennai,2021,Kidnapping,386,7,379,No,85
+Tamil Nadu,Chennai,2022,Theft,480,365,115,Yes,56
+Tamil Nadu,Chennai,2022,Assault,187,28,159,Yes,105
+Tamil Nadu,Chennai,2022,Murder,459,433,26,No,21
+Tamil Nadu,Chennai,2022,Rape,479,302,177,No,218
+Tamil Nadu,Chennai,2022,Cyber Crime,78,61,17,No,78
+Tamil Nadu,Chennai,2022,Kidnapping,220,102,118,Yes,22
+Tamil Nadu,Chennai,2023,Theft,105,13,92,Yes,0
+Tamil Nadu,Chennai,2023,Assault,337,130,207,Yes,218
+Tamil Nadu,Chennai,2023,Murder,254,28,226,No,90
+Tamil Nadu,Chennai,2023,Rape,400,105,295,No,231
+Tamil Nadu,Chennai,2023,Cyber Crime,351,119,232,Yes,61
+Tamil Nadu,Chennai,2023,Kidnapping,429,294,135,Yes,125
+Tamil Nadu,Coimbatore,2015,Theft,66,24,42,Yes,34
+Tamil Nadu,Coimbatore,2015,Assault,181,48,133,No,81
+Tamil Nadu,Coimbatore,2015,Murder,264,145,119,Yes,165
+Tamil Nadu,Coimbatore,2015,Rape,360,271,89,Yes,315
+Tamil Nadu,Coimbatore,2015,Cyber Crime,418,363,55,No,28
+Tamil Nadu,Coimbatore,2015,Kidnapping,220,158,62,No,25
+Tamil Nadu,Coimbatore,2016,Theft,422,65,357,No,124
+Tamil Nadu,Coimbatore,2016,Assault,95,88,7,Yes,48
+Tamil Nadu,Coimbatore,2016,Murder,344,271,73,No,73
+Tamil Nadu,Coimbatore,2016,Rape,325,246,79,Yes,31
+Tamil Nadu,Coimbatore,2016,Cyber Crime,138,67,71,Yes,8
+Tamil Nadu,Coimbatore,2016,Kidnapping,247,41,206,No,44
+Tamil Nadu,Coimbatore,2017,Theft,208,177,31,No,116
+Tamil Nadu,Coimbatore,2017,Assault,196,156,40,Yes,132
+Tamil Nadu,Coimbatore,2017,Murder,456,39,417,No,53
+Tamil Nadu,Coimbatore,2017,Rape,157,132,25,No,139
+Tamil Nadu,Coimbatore,2017,Cyber Crime,277,68,209,No,105
+Tamil Nadu,Coimbatore,2017,Kidnapping,31,29,2,Yes,14
+Tamil Nadu,Coimbatore,2018,Theft,206,89,117,No,101
+Tamil Nadu,Coimbatore,2018,Assault,456,103,353,No,451
+Tamil Nadu,Coimbatore,2018,Murder,159,151,8,Yes,7
+Tamil Nadu,Coimbatore,2018,Rape,359,108,251,No,150
+Tamil Nadu,Coimbatore,2018,Cyber Crime,86,4,82,Yes,28
+Tamil Nadu,Coimbatore,2018,Kidnapping,208,76,132,Yes,24
+Tamil Nadu,Coimbatore,2019,Theft,149,26,123,No,19
+Tamil Nadu,Coimbatore,2019,Assault,225,50,175,Yes,150
+Tamil Nadu,Coimbatore,2019,Murder,185,66,119,No,45
+Tamil Nadu,Coimbatore,2019,Rape,231,157,74,No,60
+Tamil Nadu,Coimbatore,2019,Cyber Crime,45,5,40,No,37
+Tamil Nadu,Coimbatore,2019,Kidnapping,313,175,138,No,51
+Tamil Nadu,Coimbatore,2020,Theft,476,310,166,Yes,335
+Tamil Nadu,Coimbatore,2020,Assault,306,195,111,No,155
+Tamil Nadu,Coimbatore,2020,Murder,423,397,26,Yes,256
+Tamil Nadu,Coimbatore,2020,Rape,49,22,27,Yes,31
+Tamil Nadu,Coimbatore,2020,Cyber Crime,404,91,313,No,142
+Tamil Nadu,Coimbatore,2020,Kidnapping,164,90,74,No,152
+Tamil Nadu,Coimbatore,2021,Theft,389,9,380,No,4
+Tamil Nadu,Coimbatore,2021,Assault,177,61,116,No,61
+Tamil Nadu,Coimbatore,2021,Murder,412,14,398,No,95
+Tamil Nadu,Coimbatore,2021,Rape,241,57,184,Yes,144
+Tamil Nadu,Coimbatore,2021,Cyber Crime,396,100,296,Yes,61
+Tamil Nadu,Coimbatore,2021,Kidnapping,234,171,63,No,22
+Tamil Nadu,Coimbatore,2022,Theft,496,92,404,No,86
+Tamil Nadu,Coimbatore,2022,Assault,127,9,118,No,81
+Tamil Nadu,Coimbatore,2022,Murder,311,142,169,No,111
+Tamil Nadu,Coimbatore,2022,Rape,166,6,160,No,116
+Tamil Nadu,Coimbatore,2022,Cyber Crime,461,342,119,Yes,401
+Tamil Nadu,Coimbatore,2022,Kidnapping,264,195,69,Yes,112
+Tamil Nadu,Coimbatore,2023,Theft,471,32,439,No,91
+Tamil Nadu,Coimbatore,2023,Assault,250,41,209,Yes,244
+Tamil Nadu,Coimbatore,2023,Murder,388,319,69,Yes,80
+Tamil Nadu,Coimbatore,2023,Rape,381,126,255,No,183
+Tamil Nadu,Coimbatore,2023,Cyber Crime,230,157,73,Yes,100
+Tamil Nadu,Coimbatore,2023,Kidnapping,382,22,360,No,3
+Tamil Nadu,Madurai,2015,Theft,39,39,0,Yes,22
+Tamil Nadu,Madurai,2015,Assault,194,107,87,Yes,15
+Tamil Nadu,Madurai,2015,Murder,56,34,22,Yes,4
+Tamil Nadu,Madurai,2015,Rape,203,5,198,Yes,156
+Tamil Nadu,Madurai,2015,Cyber Crime,338,76,262,Yes,178
+Tamil Nadu,Madurai,2015,Kidnapping,56,45,11,Yes,48
+Tamil Nadu,Madurai,2016,Theft,342,263,79,No,283
+Tamil Nadu,Madurai,2016,Assault,282,167,115,Yes,50
+Tamil Nadu,Madurai,2016,Murder,463,92,371,No,280
+Tamil Nadu,Madurai,2016,Rape,490,450,40,Yes,193
+Tamil Nadu,Madurai,2016,Cyber Crime,42,14,28,No,23
+Tamil Nadu,Madurai,2016,Kidnapping,479,157,322,Yes,138
+Tamil Nadu,Madurai,2017,Theft,290,195,95,Yes,112
+Tamil Nadu,Madurai,2017,Assault,440,356,84,No,327
+Tamil Nadu,Madurai,2017,Murder,148,107,41,Yes,82
+Tamil Nadu,Madurai,2017,Rape,402,183,219,No,357
+Tamil Nadu,Madurai,2017,Cyber Crime,282,239,43,Yes,173
+Tamil Nadu,Madurai,2017,Kidnapping,423,107,316,No,46
+Tamil Nadu,Madurai,2018,Theft,41,14,27,Yes,0
+Tamil Nadu,Madurai,2018,Assault,7,0,7,No,0
+Tamil Nadu,Madurai,2018,Murder,352,268,84,Yes,164
+Tamil Nadu,Madurai,2018,Rape,344,92,252,No,44
+Tamil Nadu,Madurai,2018,Cyber Crime,426,352,74,Yes,14
+Tamil Nadu,Madurai,2018,Kidnapping,372,248,124,Yes,129
+Tamil Nadu,Madurai,2019,Theft,220,189,31,Yes,184
+Tamil Nadu,Madurai,2019,Assault,125,82,43,No,13
+Tamil Nadu,Madurai,2019,Murder,39,5,34,No,36
+Tamil Nadu,Madurai,2019,Rape,462,447,15,Yes,152
+Tamil Nadu,Madurai,2019,Cyber Crime,166,137,29,Yes,39
+Tamil Nadu,Madurai,2019,Kidnapping,408,11,397,No,183
+Tamil Nadu,Madurai,2020,Theft,397,154,243,Yes,214
+Tamil Nadu,Madurai,2020,Assault,120,18,102,No,0
+Tamil Nadu,Madurai,2020,Murder,150,73,77,Yes,79
+Tamil Nadu,Madurai,2020,Rape,396,144,252,No,215
+Tamil Nadu,Madurai,2020,Cyber Crime,243,178,65,No,234
+Tamil Nadu,Madurai,2020,Kidnapping,165,95,70,No,161
+Tamil Nadu,Madurai,2021,Theft,394,10,384,Yes,118
+Tamil Nadu,Madurai,2021,Assault,6,4,2,Yes,1
+Tamil Nadu,Madurai,2021,Murder,100,46,54,No,67
+Tamil Nadu,Madurai,2021,Rape,241,209,32,Yes,3
+Tamil Nadu,Madurai,2021,Cyber Crime,7,5,2,No,7
+Tamil Nadu,Madurai,2021,Kidnapping,406,3,403,Yes,220
+Tamil Nadu,Madurai,2022,Theft,205,13,192,Yes,82
+Tamil Nadu,Madurai,2022,Assault,38,15,23,No,10
+Tamil Nadu,Madurai,2022,Murder,38,18,20,Yes,13
+Tamil Nadu,Madurai,2022,Rape,473,146,327,No,301
+Tamil Nadu,Madurai,2022,Cyber Crime,391,348,43,Yes,370
+Tamil Nadu,Madurai,2022,Kidnapping,367,219,148,Yes,44
+Tamil Nadu,Madurai,2023,Theft,74,29,45,No,17
+Tamil Nadu,Madurai,2023,Assault,293,218,75,No,163
+Tamil Nadu,Madurai,2023,Murder,12,2,10,Yes,12
+Tamil Nadu,Madurai,2023,Rape,62,33,29,No,26
+Tamil Nadu,Madurai,2023,Cyber Crime,474,77,397,Yes,106
+Tamil Nadu,Madurai,2023,Kidnapping,131,49,82,Yes,38
+Delhi,New Delhi,2015,Theft,58,42,16,Yes,42
+Delhi,New Delhi,2015,Assault,289,61,228,No,245
+Delhi,New Delhi,2015,Murder,197,5,192,No,175
+Delhi,New Delhi,2015,Rape,361,38,323,No,68
+Delhi,New Delhi,2015,Cyber Crime,194,60,134,No,60
+Delhi,New Delhi,2015,Kidnapping,106,83,23,Yes,63
+Delhi,New Delhi,2016,Theft,213,112,101,No,134
+Delhi,New Delhi,2016,Assault,12,12,0,No,3
+Delhi,New Delhi,2016,Murder,155,143,12,No,22
+Delhi,New Delhi,2016,Rape,108,52,56,Yes,91
+Delhi,New Delhi,2016,Cyber Crime,424,10,414,Yes,319
+Delhi,New Delhi,2016,Kidnapping,348,93,255,No,139
+Delhi,New Delhi,2017,Theft,91,20,71,No,69
+Delhi,New Delhi,2017,Assault,129,7,122,No,78
+Delhi,New Delhi,2017,Murder,206,49,157,No,26
+Delhi,New Delhi,2017,Rape,145,55,90,Yes,62
+Delhi,New Delhi,2017,Cyber Crime,385,186,199,Yes,118
+Delhi,New Delhi,2017,Kidnapping,450,393,57,No,35
+Delhi,New Delhi,2018,Theft,248,44,204,No,13
+Delhi,New Delhi,2018,Assault,403,274,129,Yes,389
+Delhi,New Delhi,2018,Murder,193,61,132,No,64
+Delhi,New Delhi,2018,Rape,90,33,57,No,7
+Delhi,New Delhi,2018,Cyber Crime,452,400,52,Yes,380
+Delhi,New Delhi,2018,Kidnapping,486,448,38,No,358
+Delhi,New Delhi,2019,Theft,79,63,16,No,63
+Delhi,New Delhi,2019,Assault,384,251,133,Yes,208
+Delhi,New Delhi,2019,Murder,146,39,107,No,57
+Delhi,New Delhi,2019,Rape,422,375,47,No,330
+Delhi,New Delhi,2019,Cyber Crime,21,14,7,Yes,5
+Delhi,New Delhi,2019,Kidnapping,273,65,208,No,214
+Delhi,New Delhi,2020,Theft,402,10,392,Yes,345
+Delhi,New Delhi,2020,Assault,354,184,170,No,316
+Delhi,New Delhi,2020,Murder,459,328,131,Yes,214
+Delhi,New Delhi,2020,Rape,370,221,149,No,52
+Delhi,New Delhi,2020,Cyber Crime,442,327,115,No,139
+Delhi,New Delhi,2020,Kidnapping,157,40,117,Yes,100
+Delhi,New Delhi,2021,Theft,230,164,66,No,187
+Delhi,New Delhi,2021,Assault,1,1,0,No,1
+Delhi,New Delhi,2021,Murder,274,240,34,No,161
+Delhi,New Delhi,2021,Rape,345,228,117,No,63
+Delhi,New Delhi,2021,Cyber Crime,333,112,221,No,61
+Delhi,New Delhi,2021,Kidnapping,455,302,153,No,176
+Delhi,New Delhi,2022,Theft,200,151,49,No,124
+Delhi,New Delhi,2022,Assault,13,6,7,No,12
+Delhi,New Delhi,2022,Murder,243,117,126,Yes,201
+Delhi,New Delhi,2022,Rape,71,60,11,No,0
+Delhi,New Delhi,2022,Cyber Crime,319,112,207,No,131
+Delhi,New Delhi,2022,Kidnapping,168,16,152,No,21
+Delhi,New Delhi,2023,Theft,357,261,96,Yes,96
+Delhi,New Delhi,2023,Assault,94,72,22,No,40
+Delhi,New Delhi,2023,Murder,376,70,306,No,24
+Delhi,New Delhi,2023,Rape,216,51,165,No,189
+Delhi,New Delhi,2023,Cyber Crime,122,43,79,Yes,2
+Delhi,New Delhi,2023,Kidnapping,370,65,305,Yes,161
+Delhi,South Delhi,2015,Theft,210,39,171,Yes,189
+Delhi,South Delhi,2015,Assault,117,108,9,No,56
+Delhi,South Delhi,2015,Murder,401,371,30,No,351
+Delhi,South Delhi,2015,Rape,325,67,258,No,78
+Delhi,South Delhi,2015,Cyber Crime,373,190,183,Yes,120
+Delhi,South Delhi,2015,Kidnapping,81,78,3,Yes,71
+Delhi,South Delhi,2016,Theft,458,239,219,Yes,345
+Delhi,South Delhi,2016,Assault,379,265,114,Yes,310
+Delhi,South Delhi,2016,Murder,33,23,10,Yes,18
+Delhi,South Delhi,2016,Rape,304,43,261,Yes,65
+Delhi,South Delhi,2016,Cyber Crime,279,42,237,Yes,112
+Delhi,South Delhi,2016,Kidnapping,406,155,251,No,147
+Delhi,South Delhi,2017,Theft,364,79,285,Yes,27
+Delhi,South Delhi,2017,Assault,495,423,72,Yes,245
+Delhi,South Delhi,2017,Murder,100,50,50,Yes,37
+Delhi,South Delhi,2017,Rape,282,127,155,No,1
+Delhi,South Delhi,2017,Cyber Crime,452,400,52,No,324
+Delhi,South Delhi,2017,Kidnapping,87,80,7,No,24
+Delhi,South Delhi,2018,Theft,135,89,46,No,115
+Delhi,South Delhi,2018,Assault,187,141,46,No,47
+Delhi,South Delhi,2018,Murder,127,84,43,No,52
+Delhi,South Delhi,2018,Rape,201,4,197,No,117
+Delhi,South Delhi,2018,Cyber Crime,232,1,231,Yes,74
+Delhi,South Delhi,2018,Kidnapping,116,8,108,Yes,37
+Delhi,South Delhi,2019,Theft,117,93,24,Yes,49
+Delhi,South Delhi,2019,Assault,196,179,17,Yes,59
+Delhi,South Delhi,2019,Murder,377,88,289,Yes,98
+Delhi,South Delhi,2019,Rape,136,87,49,No,87
+Delhi,South Delhi,2019,Cyber Crime,382,284,98,Yes,141
+Delhi,South Delhi,2019,Kidnapping,370,74,296,Yes,287
+Delhi,South Delhi,2020,Theft,480,366,114,Yes,289
+Delhi,South Delhi,2020,Assault,137,135,2,No,115
+Delhi,South Delhi,2020,Murder,405,392,13,Yes,336
+Delhi,South Delhi,2020,Rape,105,43,62,No,7
+Delhi,South Delhi,2020,Cyber Crime,389,203,186,Yes,373
+Delhi,South Delhi,2020,Kidnapping,148,136,12,Yes,128
+Delhi,South Delhi,2021,Theft,233,28,205,No,37
+Delhi,South Delhi,2021,Assault,419,250,169,Yes,14
+Delhi,South Delhi,2021,Murder,399,183,216,No,397
+Delhi,South Delhi,2021,Rape,32,6,26,Yes,8
+Delhi,South Delhi,2021,Cyber Crime,2,0,2,Yes,2
+Delhi,South Delhi,2021,Kidnapping,425,184,241,Yes,311
+Delhi,South Delhi,2022,Theft,48,30,18,No,38
+Delhi,South Delhi,2022,Assault,93,47,46,Yes,41
+Delhi,South Delhi,2022,Murder,347,114,233,No,312
+Delhi,South Delhi,2022,Rape,1,0,1,No,1
+Delhi,South Delhi,2022,Cyber Crime,274,86,188,Yes,200
+Delhi,South Delhi,2022,Kidnapping,100,98,2,Yes,68
+Delhi,South Delhi,2023,Theft,79,66,13,No,67
+Delhi,South Delhi,2023,Assault,342,127,215,No,211
+Delhi,South Delhi,2023,Murder,17,11,6,Yes,3
+Delhi,South Delhi,2023,Rape,162,113,49,No,25
+Delhi,South Delhi,2023,Cyber Crime,152,36,116,No,35
+Delhi,South Delhi,2023,Kidnapping,106,24,82,No,17
+Delhi,North Delhi,2015,Theft,250,170,80,Yes,119
+Delhi,North Delhi,2015,Assault,274,119,155,No,138
+Delhi,North Delhi,2015,Murder,153,4,149,Yes,33
+Delhi,North Delhi,2015,Rape,445,268,177,No,84
+Delhi,North Delhi,2015,Cyber Crime,329,143,186,Yes,207
+Delhi,North Delhi,2015,Kidnapping,276,226,50,No,230
+Delhi,North Delhi,2016,Theft,25,23,2,Yes,8
+Delhi,North Delhi,2016,Assault,112,71,41,Yes,21
+Delhi,North Delhi,2016,Murder,301,258,43,Yes,30
+Delhi,North Delhi,2016,Rape,152,106,46,No,137
+Delhi,North Delhi,2016,Cyber Crime,231,150,81,No,156
+Delhi,North Delhi,2016,Kidnapping,112,28,84,Yes,87
+Delhi,North Delhi,2017,Theft,201,74,127,No,155
+Delhi,North Delhi,2017,Assault,214,119,95,Yes,158
+Delhi,North Delhi,2017,Murder,295,76,219,Yes,126
+Delhi,North Delhi,2017,Rape,354,326,28,Yes,104
+Delhi,North Delhi,2017,Cyber Crime,140,66,74,Yes,92
+Delhi,North Delhi,2017,Kidnapping,333,244,89,Yes,32
+Delhi,North Delhi,2018,Theft,57,16,41,Yes,53
+Delhi,North Delhi,2018,Assault,162,100,62,Yes,50
+Delhi,North Delhi,2018,Murder,434,109,325,No,70
+Delhi,North Delhi,2018,Rape,467,284,183,No,83
+Delhi,North Delhi,2018,Cyber Crime,476,157,319,Yes,325
+Delhi,North Delhi,2018,Kidnapping,441,287,154,Yes,144
+Delhi,North Delhi,2019,Theft,204,123,81,Yes,182
+Delhi,North Delhi,2019,Assault,386,34,352,Yes,158
+Delhi,North Delhi,2019,Murder,442,214,228,No,180
+Delhi,North Delhi,2019,Rape,151,19,132,Yes,64
+Delhi,North Delhi,2019,Cyber Crime,403,306,97,No,109
+Delhi,North Delhi,2019,Kidnapping,462,219,243,No,314
+Delhi,North Delhi,2020,Theft,404,231,173,Yes,380
+Delhi,North Delhi,2020,Assault,137,97,40,No,46
+Delhi,North Delhi,2020,Murder,124,109,15,No,30
+Delhi,North Delhi,2020,Rape,429,178,251,No,25
+Delhi,North Delhi,2020,Cyber Crime,69,31,38,No,59
+Delhi,North Delhi,2020,Kidnapping,300,228,72,No,84
+Delhi,North Delhi,2021,Theft,155,136,19,Yes,96
+Delhi,North Delhi,2021,Assault,260,2,258,No,193
+Delhi,North Delhi,2021,Murder,244,86,158,Yes,221
+Delhi,North Delhi,2021,Rape,88,6,82,Yes,88
+Delhi,North Delhi,2021,Cyber Crime,209,109,100,Yes,122
+Delhi,North Delhi,2021,Kidnapping,461,242,219,No,432
+Delhi,North Delhi,2022,Theft,371,145,226,Yes,255
+Delhi,North Delhi,2022,Assault,237,32,205,Yes,60
+Delhi,North Delhi,2022,Murder,124,44,80,No,38
+Delhi,North Delhi,2022,Rape,375,58,317,Yes,119
+Delhi,North Delhi,2022,Cyber Crime,26,16,10,No,2
+Delhi,North Delhi,2022,Kidnapping,287,285,2,No,164
+Delhi,North Delhi,2023,Theft,334,138,196,Yes,129
+Delhi,North Delhi,2023,Assault,425,356,69,No,34
+Delhi,North Delhi,2023,Murder,283,232,51,Yes,198
+Delhi,North Delhi,2023,Rape,475,15,460,Yes,442
+Delhi,North Delhi,2023,Cyber Crime,41,40,1,No,20
+Delhi,North Delhi,2023,Kidnapping,251,140,111,Yes,194
+Uttar Pradesh,Lucknow,2015,Theft,93,68,25,No,67
+Uttar Pradesh,Lucknow,2015,Assault,223,143,80,Yes,49
+Uttar Pradesh,Lucknow,2015,Murder,175,125,50,No,34
+Uttar Pradesh,Lucknow,2015,Rape,209,28,181,No,36
+Uttar Pradesh,Lucknow,2015,Cyber Crime,391,310,81,No,260
+Uttar Pradesh,Lucknow,2015,Kidnapping,192,0,192,No,9
+Uttar Pradesh,Lucknow,2016,Theft,79,64,15,No,45
+Uttar Pradesh,Lucknow,2016,Assault,491,311,180,Yes,163
+Uttar Pradesh,Lucknow,2016,Murder,205,162,43,No,186
+Uttar Pradesh,Lucknow,2016,Rape,442,417,25,No,52
+Uttar Pradesh,Lucknow,2016,Cyber Crime,299,24,275,Yes,217
+Uttar Pradesh,Lucknow,2016,Kidnapping,462,35,427,No,36
+Uttar Pradesh,Lucknow,2017,Theft,84,21,63,Yes,11
+Uttar Pradesh,Lucknow,2017,Assault,225,73,152,Yes,67
+Uttar Pradesh,Lucknow,2017,Murder,500,269,231,No,475
+Uttar Pradesh,Lucknow,2017,Rape,106,32,74,No,24
+Uttar Pradesh,Lucknow,2017,Cyber Crime,470,240,230,Yes,23
+Uttar Pradesh,Lucknow,2017,Kidnapping,88,68,20,Yes,32
+Uttar Pradesh,Lucknow,2018,Theft,84,9,75,No,65
+Uttar Pradesh,Lucknow,2018,Assault,354,73,281,Yes,74
+Uttar Pradesh,Lucknow,2018,Murder,191,5,186,Yes,3
+Uttar Pradesh,Lucknow,2018,Rape,410,224,186,Yes,54
+Uttar Pradesh,Lucknow,2018,Cyber Crime,393,372,21,Yes,264
+Uttar Pradesh,Lucknow,2018,Kidnapping,472,208,264,Yes,272
+Uttar Pradesh,Lucknow,2019,Theft,105,42,63,Yes,64
+Uttar Pradesh,Lucknow,2019,Assault,167,146,21,Yes,106
+Uttar Pradesh,Lucknow,2019,Murder,279,0,279,Yes,279
+Uttar Pradesh,Lucknow,2019,Rape,99,82,17,No,74
+Uttar Pradesh,Lucknow,2019,Cyber Crime,90,56,34,Yes,60
+Uttar Pradesh,Lucknow,2019,Kidnapping,437,142,295,Yes,428
+Uttar Pradesh,Lucknow,2020,Theft,363,267,96,No,157
+Uttar Pradesh,Lucknow,2020,Assault,191,154,37,Yes,110
+Uttar Pradesh,Lucknow,2020,Murder,196,123,73,Yes,124
+Uttar Pradesh,Lucknow,2020,Rape,76,51,25,No,54
+Uttar Pradesh,Lucknow,2020,Cyber Crime,463,211,252,No,406
+Uttar Pradesh,Lucknow,2020,Kidnapping,193,163,30,No,112
+Uttar Pradesh,Lucknow,2021,Theft,427,347,80,No,347
+Uttar Pradesh,Lucknow,2021,Assault,181,55,126,Yes,10
+Uttar Pradesh,Lucknow,2021,Murder,252,123,129,Yes,59
+Uttar Pradesh,Lucknow,2021,Rape,369,235,134,Yes,63
+Uttar Pradesh,Lucknow,2021,Cyber Crime,217,131,86,Yes,172
+Uttar Pradesh,Lucknow,2021,Kidnapping,275,185,90,No,53
+Uttar Pradesh,Lucknow,2022,Theft,460,399,61,No,437
+Uttar Pradesh,Lucknow,2022,Assault,42,1,41,No,31
+Uttar Pradesh,Lucknow,2022,Murder,290,135,155,Yes,250
+Uttar Pradesh,Lucknow,2022,Rape,89,88,1,Yes,30
+Uttar Pradesh,Lucknow,2022,Cyber Crime,15,7,8,Yes,5
+Uttar Pradesh,Lucknow,2022,Kidnapping,253,103,150,Yes,135
+Uttar Pradesh,Lucknow,2023,Theft,330,297,33,No,7
+Uttar Pradesh,Lucknow,2023,Assault,218,208,10,No,43
+Uttar Pradesh,Lucknow,2023,Murder,375,152,223,Yes,327
+Uttar Pradesh,Lucknow,2023,Rape,256,155,101,No,14
+Uttar Pradesh,Lucknow,2023,Cyber Crime,109,1,108,Yes,0
+Uttar Pradesh,Lucknow,2023,Kidnapping,18,11,7,Yes,9
+Uttar Pradesh,Kanpur,2015,Theft,129,50,79,No,73
+Uttar Pradesh,Kanpur,2015,Assault,311,64,247,No,95
+Uttar Pradesh,Kanpur,2015,Murder,106,15,91,No,39
+Uttar Pradesh,Kanpur,2015,Rape,138,39,99,Yes,107
+Uttar Pradesh,Kanpur,2015,Cyber Crime,165,43,122,No,137
+Uttar Pradesh,Kanpur,2015,Kidnapping,128,45,83,Yes,107
+Uttar Pradesh,Kanpur,2016,Theft,317,54,263,Yes,243
+Uttar Pradesh,Kanpur,2016,Assault,125,55,70,Yes,13
+Uttar Pradesh,Kanpur,2016,Murder,203,166,37,Yes,29
+Uttar Pradesh,Kanpur,2016,Rape,236,9,227,Yes,194
+Uttar Pradesh,Kanpur,2016,Cyber Crime,43,43,0,No,6
+Uttar Pradesh,Kanpur,2016,Kidnapping,445,392,53,Yes,226
+Uttar Pradesh,Kanpur,2017,Theft,116,19,97,Yes,22
+Uttar Pradesh,Kanpur,2017,Assault,480,280,200,Yes,241
+Uttar Pradesh,Kanpur,2017,Murder,111,45,66,No,33
+Uttar Pradesh,Kanpur,2017,Rape,209,98,111,Yes,196
+Uttar Pradesh,Kanpur,2017,Cyber Crime,340,178,162,Yes,147
+Uttar Pradesh,Kanpur,2017,Kidnapping,167,55,112,No,133
+Uttar Pradesh,Kanpur,2018,Theft,303,254,49,Yes,42
+Uttar Pradesh,Kanpur,2018,Assault,86,69,17,No,6
+Uttar Pradesh,Kanpur,2018,Murder,425,139,286,Yes,172
+Uttar Pradesh,Kanpur,2018,Rape,162,54,108,Yes,87
+Uttar Pradesh,Kanpur,2018,Cyber Crime,261,178,83,Yes,100
+Uttar Pradesh,Kanpur,2018,Kidnapping,3,2,1,Yes,0
+Uttar Pradesh,Kanpur,2019,Theft,13,3,10,Yes,10
+Uttar Pradesh,Kanpur,2019,Assault,151,88,63,Yes,26
+Uttar Pradesh,Kanpur,2019,Murder,352,9,343,No,248
+Uttar Pradesh,Kanpur,2019,Rape,376,181,195,Yes,284
+Uttar Pradesh,Kanpur,2019,Cyber Crime,20,18,2,No,4
+Uttar Pradesh,Kanpur,2019,Kidnapping,314,10,304,Yes,126
+Uttar Pradesh,Kanpur,2020,Theft,108,69,39,No,103
+Uttar Pradesh,Kanpur,2020,Assault,242,198,44,Yes,138
+Uttar Pradesh,Kanpur,2020,Murder,288,44,244,No,172
+Uttar Pradesh,Kanpur,2020,Rape,282,35,247,Yes,208
+Uttar Pradesh,Kanpur,2020,Cyber Crime,309,264,45,Yes,151
+Uttar Pradesh,Kanpur,2020,Kidnapping,467,323,144,Yes,379
+Uttar Pradesh,Kanpur,2021,Theft,125,8,117,No,16
+Uttar Pradesh,Kanpur,2021,Assault,190,78,112,No,45
+Uttar Pradesh,Kanpur,2021,Murder,149,56,93,No,25
+Uttar Pradesh,Kanpur,2021,Rape,196,169,27,Yes,117
+Uttar Pradesh,Kanpur,2021,Cyber Crime,368,262,106,No,282
+Uttar Pradesh,Kanpur,2021,Kidnapping,208,84,124,No,201
+Uttar Pradesh,Kanpur,2022,Theft,362,243,119,No,102
+Uttar Pradesh,Kanpur,2022,Assault,283,160,123,No,69
+Uttar Pradesh,Kanpur,2022,Murder,208,90,118,Yes,105
+Uttar Pradesh,Kanpur,2022,Rape,403,135,268,No,113
+Uttar Pradesh,Kanpur,2022,Cyber Crime,440,80,360,No,2
+Uttar Pradesh,Kanpur,2022,Kidnapping,71,32,39,Yes,0
+Uttar Pradesh,Kanpur,2023,Theft,40,13,27,No,0
+Uttar Pradesh,Kanpur,2023,Assault,84,5,79,No,24
+Uttar Pradesh,Kanpur,2023,Murder,247,204,43,Yes,81
+Uttar Pradesh,Kanpur,2023,Rape,345,122,223,Yes,302
+Uttar Pradesh,Kanpur,2023,Cyber Crime,288,137,151,Yes,186
+Uttar Pradesh,Kanpur,2023,Kidnapping,370,58,312,No,333
+Uttar Pradesh,Varanasi,2015,Theft,52,36,16,No,32
+Uttar Pradesh,Varanasi,2015,Assault,341,197,144,Yes,201
+Uttar Pradesh,Varanasi,2015,Murder,266,201,65,No,151
+Uttar Pradesh,Varanasi,2015,Rape,73,70,3,No,60
+Uttar Pradesh,Varanasi,2015,Cyber Crime,28,5,23,Yes,21
+Uttar Pradesh,Varanasi,2015,Kidnapping,369,352,17,No,105
+Uttar Pradesh,Varanasi,2016,Theft,5,2,3,Yes,0
+Uttar Pradesh,Varanasi,2016,Assault,3,0,3,Yes,3
+Uttar Pradesh,Varanasi,2016,Murder,429,389,40,Yes,82
+Uttar Pradesh,Varanasi,2016,Rape,420,169,251,No,191
+Uttar Pradesh,Varanasi,2016,Cyber Crime,487,167,320,Yes,336
+Uttar Pradesh,Varanasi,2016,Kidnapping,281,20,261,Yes,94
+Uttar Pradesh,Varanasi,2017,Theft,31,12,19,No,10
+Uttar Pradesh,Varanasi,2017,Assault,389,53,336,No,41
+Uttar Pradesh,Varanasi,2017,Murder,411,141,270,No,32
+Uttar Pradesh,Varanasi,2017,Rape,9,4,5,Yes,7
+Uttar Pradesh,Varanasi,2017,Cyber Crime,232,203,29,No,36
+Uttar Pradesh,Varanasi,2017,Kidnapping,101,70,31,No,17
+Uttar Pradesh,Varanasi,2018,Theft,260,64,196,Yes,240
+Uttar Pradesh,Varanasi,2018,Assault,5,2,3,Yes,0
+Uttar Pradesh,Varanasi,2018,Murder,353,177,176,No,334
+Uttar Pradesh,Varanasi,2018,Rape,14,14,0,No,4
+Uttar Pradesh,Varanasi,2018,Cyber Crime,361,304,57,No,38
+Uttar Pradesh,Varanasi,2018,Kidnapping,413,310,103,No,171
+Uttar Pradesh,Varanasi,2019,Theft,392,105,287,No,366
+Uttar Pradesh,Varanasi,2019,Assault,402,73,329,No,115
+Uttar Pradesh,Varanasi,2019,Murder,84,23,61,No,83
+Uttar Pradesh,Varanasi,2019,Rape,322,232,90,Yes,76
+Uttar Pradesh,Varanasi,2019,Cyber Crime,54,32,22,No,6
+Uttar Pradesh,Varanasi,2019,Kidnapping,2,1,1,No,0
+Uttar Pradesh,Varanasi,2020,Theft,230,69,161,Yes,227
+Uttar Pradesh,Varanasi,2020,Assault,346,54,292,Yes,271
+Uttar Pradesh,Varanasi,2020,Murder,84,73,11,No,2
+Uttar Pradesh,Varanasi,2020,Rape,459,116,343,No,234
+Uttar Pradesh,Varanasi,2020,Cyber Crime,177,121,56,No,8
+Uttar Pradesh,Varanasi,2020,Kidnapping,253,229,24,Yes,214
+Uttar Pradesh,Varanasi,2021,Theft,131,117,14,No,4
+Uttar Pradesh,Varanasi,2021,Assault,215,110,105,Yes,193
+Uttar Pradesh,Varanasi,2021,Murder,42,11,31,Yes,36
+Uttar Pradesh,Varanasi,2021,Rape,96,4,92,No,24
+Uttar Pradesh,Varanasi,2021,Cyber Crime,337,147,190,No,78
+Uttar Pradesh,Varanasi,2021,Kidnapping,195,109,86,Yes,28
+Uttar Pradesh,Varanasi,2022,Theft,296,138,158,No,234
+Uttar Pradesh,Varanasi,2022,Assault,49,38,11,No,18
+Uttar Pradesh,Varanasi,2022,Murder,110,93,17,No,77
+Uttar Pradesh,Varanasi,2022,Rape,37,20,17,No,9
+Uttar Pradesh,Varanasi,2022,Cyber Crime,282,165,117,No,99
+Uttar Pradesh,Varanasi,2022,Kidnapping,91,22,69,No,7
+Uttar Pradesh,Varanasi,2023,Theft,23,22,1,No,4
+Uttar Pradesh,Varanasi,2023,Assault,175,167,8,Yes,1
+Uttar Pradesh,Varanasi,2023,Murder,461,365,96,No,124
+Uttar Pradesh,Varanasi,2023,Rape,254,172,82,No,28
+Uttar Pradesh,Varanasi,2023,Cyber Crime,239,133,106,Yes,228
+Uttar Pradesh,Varanasi,2023,Kidnapping,319,236,83,No,5
+West Bengal,Kolkata,2015,Theft,347,236,111,No,81
+West Bengal,Kolkata,2015,Assault,304,34,270,Yes,259
+West Bengal,Kolkata,2015,Murder,114,43,71,Yes,42
+West Bengal,Kolkata,2015,Rape,139,103,36,No,71
+West Bengal,Kolkata,2015,Cyber Crime,22,1,21,No,11
+West Bengal,Kolkata,2015,Kidnapping,429,418,11,Yes,173
+West Bengal,Kolkata,2016,Theft,244,120,124,No,113
+West Bengal,Kolkata,2016,Assault,165,104,61,Yes,124
+West Bengal,Kolkata,2016,Murder,63,23,40,Yes,25
+West Bengal,Kolkata,2016,Rape,199,29,170,Yes,18
+West Bengal,Kolkata,2016,Cyber Crime,482,146,336,No,475
+West Bengal,Kolkata,2016,Kidnapping,233,211,22,No,137
+West Bengal,Kolkata,2017,Theft,233,146,87,Yes,52
+West Bengal,Kolkata,2017,Assault,266,102,164,No,175
+West Bengal,Kolkata,2017,Murder,235,83,152,Yes,53
+West Bengal,Kolkata,2017,Rape,348,207,141,No,179
+West Bengal,Kolkata,2017,Cyber Crime,298,165,133,No,270
+West Bengal,Kolkata,2017,Kidnapping,336,213,123,No,36
+West Bengal,Kolkata,2018,Theft,192,159,33,Yes,41
+West Bengal,Kolkata,2018,Assault,355,253,102,Yes,331
+West Bengal,Kolkata,2018,Murder,329,256,73,No,270
+West Bengal,Kolkata,2018,Rape,455,311,144,Yes,386
+West Bengal,Kolkata,2018,Cyber Crime,338,47,291,Yes,126
+West Bengal,Kolkata,2018,Kidnapping,323,272,51,Yes,113
+West Bengal,Kolkata,2019,Theft,304,52,252,Yes,76
+West Bengal,Kolkata,2019,Assault,404,240,164,No,38
+West Bengal,Kolkata,2019,Murder,482,20,462,Yes,473
+West Bengal,Kolkata,2019,Rape,186,116,70,Yes,10
+West Bengal,Kolkata,2019,Cyber Crime,415,366,49,No,393
+West Bengal,Kolkata,2019,Kidnapping,154,5,149,No,121
+West Bengal,Kolkata,2020,Theft,494,424,70,No,476
+West Bengal,Kolkata,2020,Assault,360,42,318,Yes,202
+West Bengal,Kolkata,2020,Murder,124,107,17,No,18
+West Bengal,Kolkata,2020,Rape,399,289,110,No,40
+West Bengal,Kolkata,2020,Cyber Crime,267,49,218,No,7
+West Bengal,Kolkata,2020,Kidnapping,259,243,16,Yes,75
+West Bengal,Kolkata,2021,Theft,395,343,52,Yes,205
+West Bengal,Kolkata,2021,Assault,278,48,230,No,32
+West Bengal,Kolkata,2021,Murder,275,81,194,No,37
+West Bengal,Kolkata,2021,Rape,406,196,210,No,236
+West Bengal,Kolkata,2021,Cyber Crime,330,100,230,Yes,294
+West Bengal,Kolkata,2021,Kidnapping,378,198,180,No,129
+West Bengal,Kolkata,2022,Theft,201,168,33,Yes,125
+West Bengal,Kolkata,2022,Assault,143,120,23,Yes,131
+West Bengal,Kolkata,2022,Murder,370,303,67,No,318
+West Bengal,Kolkata,2022,Rape,309,242,67,Yes,41
+West Bengal,Kolkata,2022,Cyber Crime,209,145,64,Yes,78
+West Bengal,Kolkata,2022,Kidnapping,351,331,20,Yes,269
+West Bengal,Kolkata,2023,Theft,442,307,135,Yes,224
+West Bengal,Kolkata,2023,Assault,367,263,104,No,245
+West Bengal,Kolkata,2023,Murder,323,294,29,No,260
+West Bengal,Kolkata,2023,Rape,261,53,208,No,125
+West Bengal,Kolkata,2023,Cyber Crime,33,5,28,No,23
+West Bengal,Kolkata,2023,Kidnapping,133,43,90,No,101
+West Bengal,Howrah,2015,Theft,187,2,185,No,40
+West Bengal,Howrah,2015,Assault,47,16,31,No,42
+West Bengal,Howrah,2015,Murder,290,213,77,Yes,228
+West Bengal,Howrah,2015,Rape,484,299,185,No,316
+West Bengal,Howrah,2015,Cyber Crime,65,14,51,No,44
+West Bengal,Howrah,2015,Kidnapping,50,2,48,No,46
+West Bengal,Howrah,2016,Theft,13,7,6,No,1
+West Bengal,Howrah,2016,Assault,414,320,94,Yes,171
+West Bengal,Howrah,2016,Murder,377,193,184,Yes,66
+West Bengal,Howrah,2016,Rape,180,146,34,No,43
+West Bengal,Howrah,2016,Cyber Crime,320,314,6,Yes,171
+West Bengal,Howrah,2016,Kidnapping,463,405,58,No,381
+West Bengal,Howrah,2017,Theft,399,386,13,Yes,161
+West Bengal,Howrah,2017,Assault,327,248,79,No,241
+West Bengal,Howrah,2017,Murder,210,168,42,Yes,101
+West Bengal,Howrah,2017,Rape,157,86,71,No,34
+West Bengal,Howrah,2017,Cyber Crime,167,17,150,Yes,35
+West Bengal,Howrah,2017,Kidnapping,450,196,254,Yes,285
+West Bengal,Howrah,2018,Theft,218,14,204,Yes,212
+West Bengal,Howrah,2018,Assault,370,157,213,No,319
+West Bengal,Howrah,2018,Murder,13,3,10,Yes,8
+West Bengal,Howrah,2018,Rape,175,150,25,Yes,144
+West Bengal,Howrah,2018,Cyber Crime,390,80,310,Yes,156
+West Bengal,Howrah,2018,Kidnapping,353,152,201,Yes,97
+West Bengal,Howrah,2019,Theft,108,97,11,No,23
+West Bengal,Howrah,2019,Assault,229,218,11,No,50
+West Bengal,Howrah,2019,Murder,494,488,6,Yes,389
+West Bengal,Howrah,2019,Rape,253,208,45,Yes,31
+West Bengal,Howrah,2019,Cyber Crime,169,146,23,No,165
+West Bengal,Howrah,2019,Kidnapping,298,97,201,Yes,158
+West Bengal,Howrah,2020,Theft,168,34,134,Yes,55
+West Bengal,Howrah,2020,Assault,225,143,82,No,6
+West Bengal,Howrah,2020,Murder,433,69,364,Yes,247
+West Bengal,Howrah,2020,Rape,160,98,62,No,157
+West Bengal,Howrah,2020,Cyber Crime,16,14,2,No,14
+West Bengal,Howrah,2020,Kidnapping,185,131,54,No,130
+West Bengal,Howrah,2021,Theft,391,170,221,Yes,332
+West Bengal,Howrah,2021,Assault,29,26,3,Yes,19
+West Bengal,Howrah,2021,Murder,321,227,94,Yes,190
+West Bengal,Howrah,2021,Rape,20,2,18,No,16
+West Bengal,Howrah,2021,Cyber Crime,362,241,121,No,65
+West Bengal,Howrah,2021,Kidnapping,490,453,37,No,62
+West Bengal,Howrah,2022,Theft,235,155,80,Yes,30
+West Bengal,Howrah,2022,Assault,477,311,166,Yes,412
+West Bengal,Howrah,2022,Murder,47,4,43,Yes,31
+West Bengal,Howrah,2022,Rape,121,62,59,No,86
+West Bengal,Howrah,2022,Cyber Crime,124,8,116,No,62
+West Bengal,Howrah,2022,Kidnapping,372,203,169,No,287
+West Bengal,Howrah,2023,Theft,6,3,3,No,6
+West Bengal,Howrah,2023,Assault,343,308,35,No,75
+West Bengal,Howrah,2023,Murder,126,22,104,No,31
+West Bengal,Howrah,2023,Rape,193,177,16,No,107
+West Bengal,Howrah,2023,Cyber Crime,16,4,12,Yes,2
+West Bengal,Howrah,2023,Kidnapping,319,21,298,No,69
+West Bengal,Darjeeling,2015,Theft,5,4,1,No,2
+West Bengal,Darjeeling,2015,Assault,154,77,77,Yes,77
+West Bengal,Darjeeling,2015,Murder,427,155,272,No,184
+West Bengal,Darjeeling,2015,Rape,141,136,5,No,136
+West Bengal,Darjeeling,2015,Cyber Crime,281,61,220,Yes,157
+West Bengal,Darjeeling,2015,Kidnapping,16,2,14,Yes,13
+West Bengal,Darjeeling,2016,Theft,209,190,19,Yes,164
+West Bengal,Darjeeling,2016,Assault,436,178,258,No,165
+West Bengal,Darjeeling,2016,Murder,377,140,237,Yes,150
+West Bengal,Darjeeling,2016,Rape,254,66,188,No,185
+West Bengal,Darjeeling,2016,Cyber Crime,483,148,335,No,410
+West Bengal,Darjeeling,2016,Kidnapping,162,1,161,Yes,49
+West Bengal,Darjeeling,2017,Theft,4,1,3,No,4
+West Bengal,Darjeeling,2017,Assault,227,12,215,No,90
+West Bengal,Darjeeling,2017,Murder,31,3,28,No,18
+West Bengal,Darjeeling,2017,Rape,232,221,11,Yes,86
+West Bengal,Darjeeling,2017,Cyber Crime,225,37,188,No,46
+West Bengal,Darjeeling,2017,Kidnapping,181,179,2,Yes,94
+West Bengal,Darjeeling,2018,Theft,28,24,4,No,20
+West Bengal,Darjeeling,2018,Assault,185,104,81,No,77
+West Bengal,Darjeeling,2018,Murder,145,77,68,Yes,75
+West Bengal,Darjeeling,2018,Rape,85,82,3,Yes,63
+West Bengal,Darjeeling,2018,Cyber Crime,297,213,84,Yes,137
+West Bengal,Darjeeling,2018,Kidnapping,444,159,285,No,294
+West Bengal,Darjeeling,2019,Theft,75,65,10,Yes,40
+West Bengal,Darjeeling,2019,Assault,286,179,107,Yes,239
+West Bengal,Darjeeling,2019,Murder,390,238,152,No,312
+West Bengal,Darjeeling,2019,Rape,484,0,484,Yes,374
+West Bengal,Darjeeling,2019,Cyber Crime,142,40,102,Yes,73
+West Bengal,Darjeeling,2019,Kidnapping,492,57,435,No,64
+West Bengal,Darjeeling,2020,Theft,331,130,201,No,265
+West Bengal,Darjeeling,2020,Assault,184,14,170,Yes,120
+West Bengal,Darjeeling,2020,Murder,115,34,81,Yes,110
+West Bengal,Darjeeling,2020,Rape,51,15,36,No,49
+West Bengal,Darjeeling,2020,Cyber Crime,282,219,63,No,239
+West Bengal,Darjeeling,2020,Kidnapping,266,138,128,No,98
+West Bengal,Darjeeling,2021,Theft,18,12,6,Yes,10
+West Bengal,Darjeeling,2021,Assault,336,244,92,Yes,186
+West Bengal,Darjeeling,2021,Murder,224,150,74,No,82
+West Bengal,Darjeeling,2021,Rape,384,338,46,No,58
+West Bengal,Darjeeling,2021,Cyber Crime,9,0,9,Yes,1
+West Bengal,Darjeeling,2021,Kidnapping,214,131,83,No,209
+West Bengal,Darjeeling,2022,Theft,126,52,74,Yes,7
+West Bengal,Darjeeling,2022,Assault,234,29,205,No,150
+West Bengal,Darjeeling,2022,Murder,159,42,117,No,46
+West Bengal,Darjeeling,2022,Rape,374,232,142,Yes,164
+West Bengal,Darjeeling,2022,Cyber Crime,106,71,35,No,5
+West Bengal,Darjeeling,2022,Kidnapping,160,112,48,Yes,139
+West Bengal,Darjeeling,2023,Theft,389,54,335,Yes,63
+West Bengal,Darjeeling,2023,Assault,138,75,63,No,65
+West Bengal,Darjeeling,2023,Murder,462,427,35,Yes,163
+West Bengal,Darjeeling,2023,Rape,441,258,183,No,53
+West Bengal,Darjeeling,2023,Cyber Crime,143,110,33,Yes,67
+West Bengal,Darjeeling,2023,Kidnapping,417,163,254,No,166
